@@ -31,6 +31,12 @@ class Login extends StatelessWidget {
                     hintText: 'Email',
                     labelText: 'Email',
                   ),
+                  validator: (value) {
+                    if (value!.isEmpty) {
+                      return 'Please enter your email';
+                    }
+                    return null;
+                  },
                 ),
               ),
               SizedBox(
@@ -51,6 +57,12 @@ class Login extends StatelessWidget {
                     hintText: 'Password',
                     labelText: 'Passwrd',
                   ),
+                  validator: (value) {
+                    if (value!.isEmpty) {
+                      return 'Field must not be empty';
+                    }
+                    return null;
+                  },
                 ),
               ),
               SizedBox(
