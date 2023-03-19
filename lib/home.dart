@@ -1,3 +1,4 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -118,6 +119,17 @@ class _HomeState extends State<Home> {
                     border: Border.all(width: 1.0),
                     borderRadius: BorderRadius.circular(12)),
               ),
+              SizedBox(
+                height: 20,
+              ),
+              GestureDetector(
+                onTap: () {
+                  FirebaseAuth.instance.signOut();
+                },
+                child: Container(
+                  child: Text('Logout'),
+                ),
+              )
             ],
           ),
         ),

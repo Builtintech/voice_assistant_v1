@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SERVER_CLIENT_ID</key>
+	<string>222109122458-acai1hg4oq07rkdo9h6jnnsksjd4crfv.apps.googleusercontent.com</string>
+	<key>CLIENT_ID</key>
+	<string>835822154940-iv44p2v5to7iaanki9juc152g3ocobi7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.835822154940-iv44p2v5to7iaanki9juc152g3ocobi7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>835822154940-323jqrk8j0hc4bv4rekbnkjqaul3j8d7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPIYxm1jgAC0wVFw-hhi7uQgyyW4tf9aY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>835822154940</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.assistant</string>
+	<key>PROJECT_ID</key>
+	<string>realestate-47bf1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realestate-47bf1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:835822154940:ios:2fde952b151b97922eccb9</string>
+</dict>
+</plist>

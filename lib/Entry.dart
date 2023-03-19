@@ -5,9 +5,14 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class Entry extends StatelessWidget {
+class Entry extends StatefulWidget {
   const Entry({super.key});
 
+  @override
+  State<Entry> createState() => _EntryState();
+}
+
+class _EntryState extends State<Entry> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

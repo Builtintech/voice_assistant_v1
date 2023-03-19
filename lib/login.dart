@@ -1,4 +1,6 @@
+import 'package:assistant/auth_services.dart';
 import 'package:assistant/home.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
@@ -11,6 +13,13 @@ class Login extends StatelessWidget {
   Widget build(BuildContext context) {
     final _email = TextEditingController();
     final _password = TextEditingController();
+
+    void signIn() async {
+      await FirebaseAuth.instance.signInWithEmailAndPassword(
+          email: _email.text, password: _password.text);
+      Get.offAll(Home());
+    }
+
     return Scaffold(
       backgroundColor: Color.fromARGB(255, 233, 233, 233),
       body: SingleChildScrollView(
@@ -60,6 +69,8 @@ class Login extends StatelessWidget {
                   validator: (value) {
                     if (value!.isEmpty) {
                       return 'Field must not be empty';
+                    } else if (value.length < 6) {
+                      return 'Password length should contain 6';
                     }
                     return null;
                   },
@@ -68,16 +79,17 @@ class Login extends StatelessWidget {
               SizedBox(
                 height: 37,
               ),
-              InkWell(
+              GestureDetector(
                 onTap: () {
-                  Get.to(Home());
+                  ///login
+                  signIn();
                 },
                 child: Container(
                   width: 90,
                   height: 40,
                   child: Center(
                     child: Text(
-                      'Login',
+                      'Signin',
                       style: GoogleFonts.acme(),
                     ),
                   ),
@@ -91,19 +103,22 @@ class Login extends StatelessWidget {
               SizedBox(
                 height: 20,
               ),
-              Container(
-                width: 240,
-                height: 50,
-                child: Center(
-                  child: Text(
-                    'Login with Google',
-                    style: GoogleFonts.acme(),
+              GestureDetector(
+                onTap: () => Authservice().signInwithGoogle(),
+                child: Container(
+                  width: 240,
+                  height: 50,
+                  child: Center(
+                    child: Text(
+                      'Login with Google',
+                      style: GoogleFonts.acme(),
+                    ),
                   ),
-                ),
-                decoration: BoxDecoration(
-                  color: Color.fromARGB(255, 66, 196, 219),
-                  border: Border.all(color: Colors.black),
-                  borderRadius: BorderRadius.circular(10),
+                  decoration: BoxDecoration(
+                    color: Color.fromARGB(255, 66, 196, 219),
+                    border: Border.all(color: Colors.black),
+                    borderRadius: BorderRadius.circular(10),
+                  ),
                 ),
               ),
             ],
