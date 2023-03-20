@@ -1,24 +1,28 @@
 com.example.assistant.app-jetified-window-1.0.0-beta04-0 /home/sai/.gradle/caches/transforms-3/2ffb0360d83bab6ed7665e63bcb66d04/transformed/jetified-window-1.0.0-beta04/res
-com.example.assistant.app-jetified-firebase-common-20.3.1-1 /home/sai/.gradle/caches/transforms-3/5a193a977ac6312de7d8446cc59ab2bd/transformed/jetified-firebase-common-20.3.1/res
-com.example.assistant.app-jetified-play-services-basement-18.1.0-2 /home/sai/.gradle/caches/transforms-3/75fcb9d3b94cbea09116f268ae351f61/transformed/jetified-play-services-basement-18.1.0/res
-com.example.assistant.app-core-1.6.0-3 /home/sai/.gradle/caches/transforms-3/834a4435b41144e2f8076acb9024a891/transformed/core-1.6.0/res
-com.example.assistant.app-browser-1.4.0-4 /home/sai/.gradle/caches/transforms-3/a2a6d4186090b2b9d955e2799515201a/transformed/browser-1.4.0/res
-com.example.assistant.app-jetified-play-services-auth-20.4.1-5 /home/sai/.gradle/caches/transforms-3/ba69e98699ead6a14209a816d70a1faf/transformed/jetified-play-services-auth-20.4.1/res
-com.example.assistant.app-jetified-play-services-base-18.0.1-6 /home/sai/.gradle/caches/transforms-3/e6462e04c24d31fa20570cdf4bb4e1c8/transformed/jetified-play-services-base-18.0.1/res
-com.example.assistant.app-jetified-window-java-1.0.0-beta04-7 /home/sai/.gradle/caches/transforms-3/f15106001e82d13e80f3f4d08e01b942/transformed/jetified-window-java-1.0.0-beta04/res
-com.example.assistant.app-jetified-annotation-experimental-1.1.0-8 /home/sai/.gradle/caches/transforms-3/ff39cc8b3372854ff19d5cd85cfad767/transformed/jetified-annotation-experimental-1.1.0/res
-com.example.assistant.app-debug-9 /home/sai/Flutter projects/assistant/android/app/src/debug/res
-com.example.assistant.app-main-10 /home/sai/Flutter projects/assistant/android/app/src/main/res
-com.example.assistant.app-google-services-11 /home/sai/Flutter projects/assistant/build/app/generated/res/google-services/debug
-com.example.assistant.app-pngs-12 /home/sai/Flutter projects/assistant/build/app/generated/res/pngs/debug
-com.example.assistant.app-resValues-13 /home/sai/Flutter projects/assistant/build/app/generated/res/resValues/debug
-com.example.assistant.app-rs-14 /home/sai/Flutter projects/assistant/build/app/generated/res/rs/debug
-com.example.assistant.app-mergeDebugResources-15 /home/sai/Flutter projects/assistant/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.assistant.app-mergeDebugResources-16 /home/sai/Flutter projects/assistant/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.assistant.app-merged_res-17 /home/sai/Flutter projects/assistant/build/app/intermediates/merged_res/debug
-com.example.assistant.app-packaged_res-18 /home/sai/Flutter projects/assistant/build/cloud_firestore/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-19 /home/sai/Flutter projects/assistant/build/firebase_auth/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-20 /home/sai/Flutter projects/assistant/build/firebase_core/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-21 /home/sai/Flutter projects/assistant/build/firebase_storage/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-22 /home/sai/Flutter projects/assistant/build/google_sign_in_android/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-23 /home/sai/Flutter projects/assistant/build/path_provider_android/intermediates/packaged_res/debug
+com.example.assistant.app-jetified-core-ktx-1.8.0-1 /home/sai/.gradle/caches/transforms-3/43d772b7d3f02206f7dfae0907703965/transformed/jetified-core-ktx-1.8.0/res
+com.example.assistant.app-jetified-firebase-common-20.3.1-2 /home/sai/.gradle/caches/transforms-3/5a193a977ac6312de7d8446cc59ab2bd/transformed/jetified-firebase-common-20.3.1/res
+com.example.assistant.app-lifecycle-runtime-2.3.1-3 /home/sai/.gradle/caches/transforms-3/753ba7f07e96e53571fa32458d1cdfe6/transformed/lifecycle-runtime-2.3.1/res
+com.example.assistant.app-jetified-play-services-basement-18.1.0-4 /home/sai/.gradle/caches/transforms-3/75fcb9d3b94cbea09116f268ae351f61/transformed/jetified-play-services-basement-18.1.0/res
+com.example.assistant.app-browser-1.4.0-5 /home/sai/.gradle/caches/transforms-3/a2a6d4186090b2b9d955e2799515201a/transformed/browser-1.4.0/res
+com.example.assistant.app-core-1.8.0-6 /home/sai/.gradle/caches/transforms-3/e25c737546b3ae98f7f6cf09d3364015/transformed/core-1.8.0/res
+com.example.assistant.app-jetified-play-services-base-18.0.1-7 /home/sai/.gradle/caches/transforms-3/e6462e04c24d31fa20570cdf4bb4e1c8/transformed/jetified-play-services-base-18.0.1/res
+com.example.assistant.app-jetified-window-java-1.0.0-beta04-8 /home/sai/.gradle/caches/transforms-3/f15106001e82d13e80f3f4d08e01b942/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.assistant.app-jetified-play-services-auth-20.4.0-9 /home/sai/.gradle/caches/transforms-3/f57decb6d11c94c8cf3a4fb2a96eed31/transformed/jetified-play-services-auth-20.4.0/res
+com.example.assistant.app-jetified-annotation-experimental-1.1.0-10 /home/sai/.gradle/caches/transforms-3/ff39cc8b3372854ff19d5cd85cfad767/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.assistant.app-debug-11 /home/sai/Flutter projects/assistant/android/app/src/debug/res
+com.example.assistant.app-main-12 /home/sai/Flutter projects/assistant/android/app/src/main/res
+com.example.assistant.app-google-services-13 /home/sai/Flutter projects/assistant/build/app/generated/res/google-services/debug
+com.example.assistant.app-pngs-14 /home/sai/Flutter projects/assistant/build/app/generated/res/pngs/debug
+com.example.assistant.app-resValues-15 /home/sai/Flutter projects/assistant/build/app/generated/res/resValues/debug
+com.example.assistant.app-rs-16 /home/sai/Flutter projects/assistant/build/app/generated/res/rs/debug
+com.example.assistant.app-mergeDebugResources-17 /home/sai/Flutter projects/assistant/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.assistant.app-mergeDebugResources-18 /home/sai/Flutter projects/assistant/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.assistant.app-merged_res-19 /home/sai/Flutter projects/assistant/build/app/intermediates/merged_res/debug
+com.example.assistant.app-packaged_res-20 /home/sai/Flutter projects/assistant/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-21 /home/sai/Flutter projects/assistant/build/firebase_auth/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-22 /home/sai/Flutter projects/assistant/build/firebase_core/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-23 /home/sai/Flutter projects/assistant/build/firebase_storage/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-24 /home/sai/Flutter projects/assistant/build/flutter_tts/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-25 /home/sai/Flutter projects/assistant/build/path_provider_android/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-26 /home/sai/Flutter projects/assistant/build/smart_auth/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-27 /home/sai/Flutter projects/assistant/build/speech_to_text/intermediates/packaged_res/debug

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">222109122458-qmudgs3fck00gp6c1p5rmj4i79nlrf0i.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">222109122458</string>
-    <string name="google_api_key" translatable="false">AIzaSyC4srgigUJT-o1UPbzM3tLXGNYd7Wf_e7k</string>
-    <string name="google_app_id" translatable="false">1:222109122458:android:f321f55d4961c586d38423</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC4srgigUJT-o1UPbzM3tLXGNYd7Wf_e7k</string>
-    <string name="google_storage_bucket" translatable="false">voice-assistant-7c535.appspot.com</string>
-    <string name="project_id" translatable="false">voice-assistant-7c535</string>
+    <string name="gcm_defaultSenderId" translatable="false">479484882113</string>
+    <string name="google_api_key" translatable="false">AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo</string>
+    <string name="google_app_id" translatable="false">1:479484882113:android:0b8e5ca29d8a6be6657840</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo</string>
+    <string name="google_storage_bucket" translatable="false">voiceassistant-418ac.appspot.com</string>
+    <string name="project_id" translatable="false">voiceassistant-418ac</string>
 </resources>

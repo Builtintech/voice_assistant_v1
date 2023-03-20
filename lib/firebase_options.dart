@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAGdL8XYXOsd0ue926MHCKcPGRpRG0AL5o',
-    appId: '1:222109122458:web:def9e2c1caa88b40d38423',
-    messagingSenderId: '222109122458',
-    projectId: 'voice-assistant-7c535',
-    authDomain: 'voice-assistant-7c535.firebaseapp.com',
-    storageBucket: 'voice-assistant-7c535.appspot.com',
-    measurementId: 'G-RBL27R11XX',
+    apiKey: 'AIzaSyB3M0k0HSifpI7M4xJImNiF9mtmHXu16dk',
+    appId: '1:479484882113:web:32276b9eca0bfd35657840',
+    messagingSenderId: '479484882113',
+    projectId: 'voiceassistant-418ac',
+    authDomain: 'voiceassistant-418ac.firebaseapp.com',
+    storageBucket: 'voiceassistant-418ac.appspot.com',
+    measurementId: 'G-V34P453GLC',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC4srgigUJT-o1UPbzM3tLXGNYd7Wf_e7k',
-    appId: '1:222109122458:android:f321f55d4961c586d38423',
-    messagingSenderId: '222109122458',
-    projectId: 'voice-assistant-7c535',
-    storageBucket: 'voice-assistant-7c535.appspot.com',
+    apiKey: 'AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo',
+    appId: '1:479484882113:android:0b8e5ca29d8a6be6657840',
+    messagingSenderId: '479484882113',
+    projectId: 'voiceassistant-418ac',
+    storageBucket: 'voiceassistant-418ac.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAaOLZcYYI8hCK9DNx0BwgA86ZGTf_FEeY',
-    appId: '1:222109122458:ios:1eb64a2251953cecd38423',
-    messagingSenderId: '222109122458',
-    projectId: 'voice-assistant-7c535',
-    storageBucket: 'voice-assistant-7c535.appspot.com',
-    iosClientId: '222109122458-acai1hg4oq07rkdo9h6jnnsksjd4crfv.apps.googleusercontent.com',
+    apiKey: 'AIzaSyD7aATRCw_0JzYQgkszJDDzeRvuFj3C9zA',
+    appId: '1:479484882113:ios:b93a43c927f6c862657840',
+    messagingSenderId: '479484882113',
+    projectId: 'voiceassistant-418ac',
+    storageBucket: 'voiceassistant-418ac.appspot.com',
+    iosClientId: '479484882113-t3vir6tc3ap1i9qatkmja9mtrldq4aij.apps.googleusercontent.com',
     iosBundleId: 'com.example.assistant',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAaOLZcYYI8hCK9DNx0BwgA86ZGTf_FEeY',
-    appId: '1:222109122458:ios:1eb64a2251953cecd38423',
-    messagingSenderId: '222109122458',
-    projectId: 'voice-assistant-7c535',
-    storageBucket: 'voice-assistant-7c535.appspot.com',
-    iosClientId: '222109122458-acai1hg4oq07rkdo9h6jnnsksjd4crfv.apps.googleusercontent.com',
+    apiKey: 'AIzaSyD7aATRCw_0JzYQgkszJDDzeRvuFj3C9zA',
+    appId: '1:479484882113:ios:b93a43c927f6c862657840',
+    messagingSenderId: '479484882113',
+    projectId: 'voiceassistant-418ac',
+    storageBucket: 'voiceassistant-418ac.appspot.com',
+    iosClientId: '479484882113-t3vir6tc3ap1i9qatkmja9mtrldq4aij.apps.googleusercontent.com',
     iosBundleId: 'com.example.assistant',
   );
 }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.assistant.app-mergeDebugResources-15:/values-my/values-my.xml",
+            "outputFile": "com.example.assistant.app-mergeDebugResources-17:/values-my/values-my.xml",
             "map": [
                 {
                     "source": "/home/sai/.gradle/caches/transforms-3/a2a6d4186090b2b9d955e2799515201a/transformed/browser-1.4.0/res/values-my/values-my.xml",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/sai/.gradle/caches/transforms-3/834a4435b41144e2f8076acb9024a891/transformed/core-1.6.0/res/values-my/values-my.xml",
+                    "source": "/home/sai/.gradle/caches/transforms-3/e25c737546b3ae98f7f6cf09d3364015/transformed/core-1.8.0/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

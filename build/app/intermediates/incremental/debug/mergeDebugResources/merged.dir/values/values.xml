@@ -103,6 +103,7 @@
     <item name="text" type="id"/>
     <item name="text2" type="id"/>
     <item name="title" type="id"/>
+    <id name="view_tree_lifecycle_owner"/>
     <integer name="google_play_services_version">12451000</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
@@ -124,16 +125,15 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
-    <string name="default_web_client_id" translatable="false">222109122458-qmudgs3fck00gp6c1p5rmj4i79nlrf0i.apps.googleusercontent.com</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
-    <string name="gcm_defaultSenderId" translatable="false">222109122458</string>
-    <string name="google_api_key" translatable="false">AIzaSyC4srgigUJT-o1UPbzM3tLXGNYd7Wf_e7k</string>
-    <string name="google_app_id" translatable="false">1:222109122458:android:f321f55d4961c586d38423</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC4srgigUJT-o1UPbzM3tLXGNYd7Wf_e7k</string>
-    <string name="google_storage_bucket" translatable="false">voice-assistant-7c535.appspot.com</string>
-    <string name="project_id" translatable="false">voice-assistant-7c535</string>
+    <string name="gcm_defaultSenderId" translatable="false">479484882113</string>
+    <string name="google_api_key" translatable="false">AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo</string>
+    <string name="google_app_id" translatable="false">1:479484882113:android:0b8e5ca29d8a6be6657840</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo</string>
+    <string name="google_storage_bucket" translatable="false">voiceassistant-418ac.appspot.com</string>
+    <string name="project_id" translatable="false">voiceassistant-418ac</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
         
@@ -177,6 +177,9 @@
         
         <attr format="float" name="alpha"/>
         <attr name="android:alpha"/>
+        
+        <attr format="float" name="lStar"/>
+        <attr name="android:lStar"/>
     </declare-styleable>
     <declare-styleable name="FontFamily">
         
