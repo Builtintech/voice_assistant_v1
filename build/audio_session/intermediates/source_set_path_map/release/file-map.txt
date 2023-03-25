@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-0 /home/sai/.gradle/caches/transforms-3/2ffb0360d83bab6ed7665e63bcb66d04/transformed/jetified-window-1.0.0-beta04/res
+com.ryanheise.audio_session-core-1.6.0-1 /home/sai/.gradle/caches/transforms-3/834a4435b41144e2f8076acb9024a891/transformed/core-1.6.0/res
+com.ryanheise.audio_session-jetified-media2-common-1.2.0-2 /home/sai/.gradle/caches/transforms-3/99f92441e068121fb507703a6f61f083/transformed/jetified-media2-common-1.2.0/res
+com.ryanheise.audio_session-media-1.4.1-3 /home/sai/.gradle/caches/transforms-3/b2db00c61b46e087ffd8f575ae156363/transformed/media-1.4.1/res
+com.ryanheise.audio_session-jetified-media2-session-1.2.0-4 /home/sai/.gradle/caches/transforms-3/cc034499c5775e552567b3b6beaaaf32/transformed/jetified-media2-session-1.2.0/res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-5 /home/sai/.gradle/caches/transforms-3/f15106001e82d13e80f3f4d08e01b942/transformed/jetified-window-java-1.0.0-beta04/res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-6 /home/sai/.gradle/caches/transforms-3/ff39cc8b3372854ff19d5cd85cfad767/transformed/jetified-annotation-experimental-1.1.0/res
+com.ryanheise.audio_session-main-7 /home/sai/.pub-cache/hosted/pub.dev/audio_session-0.1.13/android/src/main/res
+com.ryanheise.audio_session-release-8 /home/sai/.pub-cache/hosted/pub.dev/audio_session-0.1.13/android/src/release/res
+com.ryanheise.audio_session-pngs-9 /home/sai/Flutter projects/assistant/build/audio_session/generated/res/pngs/release
+com.ryanheise.audio_session-resValues-10 /home/sai/Flutter projects/assistant/build/audio_session/generated/res/resValues/release
+com.ryanheise.audio_session-rs-11 /home/sai/Flutter projects/assistant/build/audio_session/generated/res/rs/release
+com.ryanheise.audio_session-mergeReleaseResources-12 /home/sai/Flutter projects/assistant/build/audio_session/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 /home/sai/Flutter projects/assistant/build/audio_session/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ryanheise.audio_session-merged_res-14 /home/sai/Flutter projects/assistant/build/audio_session/intermediates/merged_res/release

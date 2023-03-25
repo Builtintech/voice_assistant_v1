@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">479484882113</string>
+    <string name="google_api_key" translatable="false">AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo</string>
+    <string name="google_app_id" translatable="false">1:479484882113:android:0b8e5ca29d8a6be6657840</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwHVxjwiUaWADY2mW1wlJEdJn2ysHKjCo</string>
+    <string name="google_storage_bucket" translatable="false">voiceassistant-418ac.appspot.com</string>
+    <string name="project_id" translatable="false">voiceassistant-418ac</string>
+</resources>

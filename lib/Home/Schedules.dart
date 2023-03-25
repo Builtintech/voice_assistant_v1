@@ -21,7 +21,7 @@ class Schedules extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text(
-              "LOCATIONS",
+              "TODAY'S SCHEDULES",
               style: TextStyle(
                 color: Color.fromARGB(255, 0, 0, 0),
                 fontSize: 18,
@@ -33,10 +33,10 @@ class Schedules extends StatelessWidget {
             Column(
               // ignore: prefer_const_literals_to_create_immutables
               children: [
-                const Text('Arun  Mehdipatnam, Hyderabad',
+                const Text('10:30 AM  Take tablets',
                     style: TextStyle(color: Color.fromARGB(255, 86, 88, 88))),
                 const SizedBox(height: 10),
-                const Text('Vamsi Kukatpally, Hyderabad',
+                const Text('12:30 AM  Take tablets',
                     style: TextStyle(color: Color.fromARGB(255, 86, 88, 88))),
               ],
             )

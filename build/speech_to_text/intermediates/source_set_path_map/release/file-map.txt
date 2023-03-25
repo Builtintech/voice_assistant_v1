@@ -1,0 +1,12 @@
+com.csdcorp.speech_to_text-jetified-window-1.0.0-beta04-0 /home/sai/.gradle/caches/transforms-3/2ffb0360d83bab6ed7665e63bcb66d04/transformed/jetified-window-1.0.0-beta04/res
+com.csdcorp.speech_to_text-core-1.6.0-1 /home/sai/.gradle/caches/transforms-3/834a4435b41144e2f8076acb9024a891/transformed/core-1.6.0/res
+com.csdcorp.speech_to_text-jetified-window-java-1.0.0-beta04-2 /home/sai/.gradle/caches/transforms-3/f15106001e82d13e80f3f4d08e01b942/transformed/jetified-window-java-1.0.0-beta04/res
+com.csdcorp.speech_to_text-jetified-annotation-experimental-1.1.0-3 /home/sai/.gradle/caches/transforms-3/ff39cc8b3372854ff19d5cd85cfad767/transformed/jetified-annotation-experimental-1.1.0/res
+com.csdcorp.speech_to_text-main-4 /home/sai/.pub-cache/hosted/pub.dev/speech_to_text-6.1.1/android/src/main/res
+com.csdcorp.speech_to_text-release-5 /home/sai/.pub-cache/hosted/pub.dev/speech_to_text-6.1.1/android/src/release/res
+com.csdcorp.speech_to_text-pngs-6 /home/sai/Flutter projects/assistant/build/speech_to_text/generated/res/pngs/release
+com.csdcorp.speech_to_text-resValues-7 /home/sai/Flutter projects/assistant/build/speech_to_text/generated/res/resValues/release
+com.csdcorp.speech_to_text-rs-8 /home/sai/Flutter projects/assistant/build/speech_to_text/generated/res/rs/release
+com.csdcorp.speech_to_text-mergeReleaseResources-9 /home/sai/Flutter projects/assistant/build/speech_to_text/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.csdcorp.speech_to_text-mergeReleaseResources-10 /home/sai/Flutter projects/assistant/build/speech_to_text/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.csdcorp.speech_to_text-merged_res-11 /home/sai/Flutter projects/assistant/build/speech_to_text/intermediates/merged_res/release

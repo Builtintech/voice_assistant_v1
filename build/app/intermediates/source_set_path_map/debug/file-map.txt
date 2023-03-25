@@ -22,7 +22,9 @@ com.example.assistant.app-packaged_res-20 /home/sai/Flutter projects/assistant/b
 com.example.assistant.app-packaged_res-21 /home/sai/Flutter projects/assistant/build/firebase_auth/intermediates/packaged_res/debug
 com.example.assistant.app-packaged_res-22 /home/sai/Flutter projects/assistant/build/firebase_core/intermediates/packaged_res/debug
 com.example.assistant.app-packaged_res-23 /home/sai/Flutter projects/assistant/build/firebase_storage/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-24 /home/sai/Flutter projects/assistant/build/flutter_tts/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-25 /home/sai/Flutter projects/assistant/build/path_provider_android/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-26 /home/sai/Flutter projects/assistant/build/smart_auth/intermediates/packaged_res/debug
-com.example.assistant.app-packaged_res-27 /home/sai/Flutter projects/assistant/build/speech_to_text/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-24 /home/sai/Flutter projects/assistant/build/flutter_alarm_clock/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-25 /home/sai/Flutter projects/assistant/build/flutter_tts/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-26 /home/sai/Flutter projects/assistant/build/path_provider_android/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-27 /home/sai/Flutter projects/assistant/build/smart_auth/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-28 /home/sai/Flutter projects/assistant/build/speech_to_text/intermediates/packaged_res/debug
+com.example.assistant.app-packaged_res-29 /home/sai/Flutter projects/assistant/build/url_launcher_android/intermediates/packaged_res/debug

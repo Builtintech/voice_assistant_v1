@@ -1,0 +1,12 @@
+com.ajinasokan.flutter_fgbg-jetified-window-1.0.0-beta04-0 /home/sai/.gradle/caches/transforms-3/2ffb0360d83bab6ed7665e63bcb66d04/transformed/jetified-window-1.0.0-beta04/res
+com.ajinasokan.flutter_fgbg-core-1.6.0-1 /home/sai/.gradle/caches/transforms-3/834a4435b41144e2f8076acb9024a891/transformed/core-1.6.0/res
+com.ajinasokan.flutter_fgbg-jetified-window-java-1.0.0-beta04-2 /home/sai/.gradle/caches/transforms-3/f15106001e82d13e80f3f4d08e01b942/transformed/jetified-window-java-1.0.0-beta04/res
+com.ajinasokan.flutter_fgbg-jetified-annotation-experimental-1.1.0-3 /home/sai/.gradle/caches/transforms-3/ff39cc8b3372854ff19d5cd85cfad767/transformed/jetified-annotation-experimental-1.1.0/res
+com.ajinasokan.flutter_fgbg-main-4 /home/sai/.pub-cache/hosted/pub.dev/flutter_fgbg-0.2.2/android/src/main/res
+com.ajinasokan.flutter_fgbg-release-5 /home/sai/.pub-cache/hosted/pub.dev/flutter_fgbg-0.2.2/android/src/release/res
+com.ajinasokan.flutter_fgbg-pngs-6 /home/sai/Flutter projects/assistant/build/flutter_fgbg/generated/res/pngs/release
+com.ajinasokan.flutter_fgbg-resValues-7 /home/sai/Flutter projects/assistant/build/flutter_fgbg/generated/res/resValues/release
+com.ajinasokan.flutter_fgbg-rs-8 /home/sai/Flutter projects/assistant/build/flutter_fgbg/generated/res/rs/release
+com.ajinasokan.flutter_fgbg-mergeReleaseResources-9 /home/sai/Flutter projects/assistant/build/flutter_fgbg/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ajinasokan.flutter_fgbg-mergeReleaseResources-10 /home/sai/Flutter projects/assistant/build/flutter_fgbg/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ajinasokan.flutter_fgbg-merged_res-11 /home/sai/Flutter projects/assistant/build/flutter_fgbg/intermediates/merged_res/release
