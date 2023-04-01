@@ -4,7 +4,7 @@
             "outputFile": "com.example.assistant.app-mergeDebugResources-17:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/sai/Flutter projects/assistant/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/sai/Documents/Builtin-Tech/assistant/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -23,7 +23,24 @@
                     }
                 },
                 {
-                    "source": "/home/sai/Flutter projects/assistant/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/sai/.gradle/caches/transforms-3/753ba7f07e96e53571fa32458d1cdfe6/transformed/lifecycle-runtime-2.3.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "105",
+                        "startColumns": "4",
+                        "startOffsets": "6434",
+                        "endColumns": "42",
+                        "endOffsets": "6472"
+                    }
+                },
+                {
+                    "source": "/home/sai/Documents/Builtin-Tech/assistant/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -39,23 +56,6 @@
                         "endLines": "140,143",
                         "endColumns": "12,12",
                         "endOffsets": "10078,10247"
-                    }
-                },
-                {
-                    "source": "/home/sai/.gradle/caches/transforms-3/753ba7f07e96e53571fa32458d1cdfe6/transformed/lifecycle-runtime-2.3.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "42",
-                        "endOffsets": "93"
-                    },
-                    "to": {
-                        "startLines": "105",
-                        "startColumns": "4",
-                        "startOffsets": "6434",
-                        "endColumns": "42",
-                        "endOffsets": "6472"
                     }
                 },
                 {
@@ -97,7 +97,7 @@
                     }
                 },
                 {
-                    "source": "/home/sai/Flutter projects/assistant/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/home/sai/Documents/Builtin-Tech/assistant/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
